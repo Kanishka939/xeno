@@ -1,5 +1,6 @@
 # Xeno Insights — UI (v4, no external store)
 
+
 This build **removes useSyncExternalStore**, using **Context + Reducers** only — eliminating any chance of the “Maximum update depth exceeded” loop.
 
 ## Run
